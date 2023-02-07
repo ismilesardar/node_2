@@ -1,0 +1,3 @@
+1. Browser Vs Node.js?
+=> Browser provide interactin with DOM, or other web platform API like cookies. We don't have Document, cookies, windows and some other Object in Node.js.
+=> Node.js provide all the nice API to interactin with File system by Node.js module.
