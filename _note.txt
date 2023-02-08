@@ -1,3 +1,9 @@
 1. Browser Vs Node.js?
 => Browser provide interactin with DOM, or other web platform API like cookies. We don't have Document, cookies, windows and some other Object in Node.js.
 => Node.js provide all the nice API to interactin with File system by Node.js module.
+
+2. Local Module..
+=> In Node.js each file is a module that is isolated dy default.
+=> To lode a module another functions we use require functions.
+=> When index.js file is executed. Then module code is also executed.
+=> If the file we are requiring  is a JavaScript. we can skip the file extention name and Node.js is add the file extention on the behalf.

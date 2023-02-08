@@ -1,1 +1,4 @@
-console.log("I am form Node.js")
+require('./local');
+
+console.log("I am form Node.js");
+
