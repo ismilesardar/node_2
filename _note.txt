@@ -7,3 +7,8 @@
 => To lode a module another functions we use require functions.
 => When index.js file is executed. Then module code is also executed.
 => If the file we are requiring  is a JavaScript. we can skip the file extention name and Node.js is add the file extention on the behalf.
+
+3. Module Scope..
+=> Each node module is deferent scope.
+=> Every module is wrapped IIFE that provide scoping node.
+=> IIFE allowed you to repeat variable and functions without conflict.
