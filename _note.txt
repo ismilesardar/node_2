@@ -12,3 +12,7 @@
 => Each node module is deferent scope.
 => Every module is wrapped IIFE that provide scoping node.
 => IIFE allowed you to repeat variable and functions without conflict.
+
+4. Callback Pattern..
+-> JS has Two type of Callback Pattern.
+-> Assencrones and Senacrones
